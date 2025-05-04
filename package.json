@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "fs": "^0.0.1-security",
+    "telegraf": "^4.16.3",
+    "yt-dlp-exec": "^1.0.2"
+  },
+  "name": "tina-bot",
+  "version": "1.0.0",
+  "description": "Inteligencia artificial desenvolvida pela empresa Eliobros Tech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-bot": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eliobros/bot-tina.git"
+  },
+  "keywords": [
+    "tina",
+    "eliobros",
+    "tech",
+    "inteligencia",
+    "artifical",
+    "bot"
+  ],
+  "author": "Eliobros Tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eliobros/bot-tina/issues"
+  },
+  "homepage": "https://github.com/Eliobros/bot-tina#readme"
+}
