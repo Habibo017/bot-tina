@@ -168,3 +168,5 @@ bot.action('confirm', async (ctx) => {
 });
 
 bot.launch();
+
+console.log('Bot online....');
